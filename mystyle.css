@@ -1,0 +1,19 @@
+h1 {
+	color :red;
+	text-align: center;
+}
+
+body {
+	background-color: #D8D8D8;
+	text-align: center;
+	display:inline-table;
+}
+
+p {
+	font-family: serif;
+	font-weight: bold;
+}
+
+ul {
+	display: inline-table;
+}
