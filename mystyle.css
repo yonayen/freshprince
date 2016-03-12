@@ -16,4 +16,5 @@ p {
 
 ul {
 	display: inline-table;
+	list-style-type: none;
 }
